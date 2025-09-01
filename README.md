@@ -23,8 +23,8 @@ Additionally, a simple **ML/DL optimizer** is included to search for **stable co
 
 ---
 
-## 🛠️ Installation
-Clone or download the project:
-```bash
-git clone https://github.com/your-username/nbody-simulation.git
-cd nbody-simulation
+[comment]: <> (## 🛠️ Installation)
+[comment]: <> (Clone or download the project:)
+[comment]: <> (```bash)
+[comment]: <> (git clone https://github.com/your-username/nbody-simulation.git)
+[comment]: <> (cd nbody-simulation)
